@@ -1,0 +1,33 @@
+[
+  {
+    "ID": "1",
+    "Name": "Emma Frost",
+    "Gender": "1",
+    "Class": "32",
+    "Seat": "15",
+    "Teacher": "Professor X",
+    "Course": "T2011",
+    "Grade": "8"
+  },
+  {
+    "ID": "2",
+    "Name": "Scott Summers",
+    "Gender": "0",
+    "Class": "32",
+    "Seat": "15",
+    "Teacher": "Wolverine",
+    "Course": "T2011",
+    "Grade": "16",
+    "Info": "Cheat suspection"
+  },
+  {
+    "ID": "3",
+    "Name": "Helene",
+    "Gender": "1",
+    "Class": "33",
+    "Seat": "16",
+    "Teacher": "Professor X",
+    "Course": "T2011",
+    "Grade": "11"
+  }
+]
